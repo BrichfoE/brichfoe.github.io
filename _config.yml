@@ -1,7 +1,7 @@
 # Setup
-title: Noir
-tagline: a dark mode friendly Jekyll theme
-url: https://noir.essentialenemy.com
+title: EBrichford's Blog
+tagline: Some day soon this will have a better title
+url: https://elliottbrichford.com
 paginate: 1
 baseurl: ""
 permalink: :title/
@@ -32,16 +32,15 @@ sass:
 
 # Options
 
-# Replace this value and uncomment to enable Google Analytics tracking
-# ga_analytics: UA-000000-0
+ga_analytics: UA-59340680-1
 
 # Specify the author for blog posts
 author:
-  name: Victor Johnson
+  name: Elliott Brichford
   url: https://twitter.com/essentialenemy
-  email: me@essentialenemy.com
+  email: elliott@elliottbrichford.com
 
 # Custom vars
 version: 1.3.0
 github:
-  repo: https://github.com/essentialenemy/noir
+  repo: https://github.com/BrichfoE/brichfoe.github.io
