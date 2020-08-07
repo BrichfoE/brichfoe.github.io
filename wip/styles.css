@@ -1,0 +1,9 @@
+@font-face{
+    font-family: "dosis";
+    src: url('Dosis-VariableFont_wght.ttf')
+}
+
+body {
+    background-color: royalbllblue;
+    font-family: dosis;
+  }
