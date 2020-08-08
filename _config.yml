@@ -31,7 +31,7 @@ sass:
   style: :compressed
 
 # Options
-# ga_analytics: UA-59340680-1
+ga_analytics: UA-59340680-3
 
 # Specify the author for blog posts
 author:

@@ -7,7 +7,7 @@ tags: [rexAnglorum]
 last_modified_at: 2020-08-07
 ---
 
-## 
+## Greetings and Salutations
 Good morning, dear hypothetical reader.  Today I am going to try to accomplish a couple things.
 
 	1. Describe exactly why I am writing
