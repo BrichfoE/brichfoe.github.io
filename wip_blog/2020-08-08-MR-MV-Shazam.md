@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thoughts on Shazam
-date: # 2020-08-08 09:00:00
+date: 2020-08-10 09:00:00
 categories: [Film] [Reviews]
 tags:
 last_modified_at: 2020-08-08
