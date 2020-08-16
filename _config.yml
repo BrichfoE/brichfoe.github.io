@@ -5,6 +5,7 @@ url: https://elliottbrichford.com
 paginate: 1
 baseurl: ""
 permalink: :title/
+debug: false
 
 kramdown:
     footnote_backlink: "&#10548;"
@@ -15,6 +16,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-target-blank
+  - jekyll-debug
 
 # Optimize Jekyll
 exclude:
