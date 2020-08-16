@@ -26,9 +26,9 @@ layout: compress
     <li><a href="/about/">about</a></li>
 		</ul>
 		</div>
-    {% if debug == True %}
+    <!-- {% if debug == True %}
       <p class="green"><small><b>debug</b> == True </small></p>
-    {% endif %}		
+    {% endif %}		 -->
       </header>
 
       <main>
@@ -40,7 +40,7 @@ layout: compress
       </footer>
     </div>
 
-    {% if site.ga_analytics and debug != True %}
+    {% if site.ga_analytics %}  <!-- and debug != True %} -->
      <script>
        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
