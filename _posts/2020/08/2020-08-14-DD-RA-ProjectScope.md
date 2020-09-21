@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dev Diary - Rex Anglorum - Project Scope
+title: Rex Anglorum - Project Scope
 date: 2020-08-14 09:00:00
 categories: [Dev Diary]
 tags: [rexAnglorum]

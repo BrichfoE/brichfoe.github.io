@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dev Diary - Rex Anglorum - An Introduction
+title: Rex Anglorum - An Introduction
 date: 2020-08-07 09:00:00
 categories: [Dev Diary]
 tags: [rexAnglorum]

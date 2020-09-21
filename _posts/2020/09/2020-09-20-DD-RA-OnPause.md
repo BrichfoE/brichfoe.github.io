@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dev Diary - Rex Anglorum - On Pause
+title: Rex Anglorum - On Pause
 date: 2020-09-20 21:00:00
 categories: [Dev Diary]
 tags: [rexAnglorum]
