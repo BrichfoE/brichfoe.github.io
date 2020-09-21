@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rex Anglorum - Experiments in Unity
-date: 2020-08-24 23:30:00
+date: 2020-08-24 13:00:00
 categories: [Dev Diary]
 tags: [rexAnglorum]
 last_modified_at: 2020-08-24

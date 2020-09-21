@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rex Anglorum - On Pause
-date: 2020-09-20 21:00:00
+date: 2020-09-20 23:00:00
 categories: [Dev Diary]
 tags: [rexAnglorum]
 last_modified_at: 20-09-20
