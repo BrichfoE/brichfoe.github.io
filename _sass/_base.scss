@@ -100,3 +100,9 @@ tbody tr:nth-child(odd) th {
   background-color: #2d2d2d;
   }
 }
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
